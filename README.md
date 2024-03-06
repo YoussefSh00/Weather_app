@@ -4,13 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Home_Screen_Without_Data
+![WhatsApp Image 2024-03-06 at 7 47 31 PM](https://github.com/YoussefSh00/Weather_app/assets/151455507/ea0d9388-fa7b-4029-863c-159d8442be98)
 
-A few resources to get you started if this is your first Flutter project:
+# Search_Screen
+![WhatsApp Image 2024-03-06 at 7 47 32 PM](https://github.com/YoussefSh00/Weather_app/assets/151455507/4f0395da-84e9-4ed0-9bb6-66d36c0b1710)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Home_Screen_With_Data
+![WhatsApp Image 2024-03-06 at 7 47 32 PM (1)](https://github.com/YoussefSh00/Weather_app/assets/151455507/2c1343bc-bba5-4b95-a923-8af16da02c0e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
